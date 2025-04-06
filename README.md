@@ -19,6 +19,7 @@ Cześć! Nazywam się Paweł Pokorski i od dłuższego czasu pasjonuję się w t
 🔹 **Mechanika 6** – UI - Panel zakładek, umiejętności + [🎥 Filmik](https://drive.google.com/file/d/19JsD5sn9m9-fvrCxaE7fBiObRvHlziSb/view?usp=sharing)  
 🔹 **Mechanika 7** – UI - Panel ekwipunku + [🎥 Filmik](https://drive.google.com/file/d/1uql1ggLUNUYz-ejkw0wYLSZvv1YpYJYS/view?usp=sharing)  
 🔹 **Mechanika 8** – UI - Menu główne, panel ustawień, zmiana języka + [🎥 Filmik](https://drive.google.com/file/d/1fV4GidvZx2zoxIRQ_OzRsQk-fSbGpufa/view?usp=sharing)  
+🔹 **Mechanika 9** - 2D - Algorytm Flood fill, światła 2D, Sorting Layers + [🎥 Filmik](https://drive.google.com/file/d/1zgbUI5ZsDdhg8JEZF4b3JAHHxmIfX4Fd/view?usp=sharing)
 
 ---
 
