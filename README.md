@@ -5,7 +5,8 @@ Cześć! Nazywam się Paweł Pokorski i od dłuższego czasu pasjonuję się w t
 ## 📌 Projekty
 
 ### 1️⃣ **Portal Rush** *(Pełna Gra)*
-🔗 **WebGL Build**: [Link do gry](https://pawelpokorski.github.io/Portal-Rush/)  
+🔗 **WebGL Build**: [Link do gry](https://pawelpokorski.github.io/Unity-Portal-Rush-Game/)
+
 📝 **Opis**: Prosta gra 2D, w której sterujemy kulką tak, aby dotrzeć do portalu, zbierając przy tym diamenty.
 
 ---
