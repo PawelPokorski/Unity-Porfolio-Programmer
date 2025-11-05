@@ -27,6 +27,7 @@ Cześć! Nazywam się Paweł Pokorski i od dłuższego czasu pasjonuję się w t
 🔹 **Mechanika 7** - UI - Tryb skupienia - podświetlanie przedmiotów interaktywnych + [🎥 Filmik](https://drive.google.com/file/d/1Cx9LCpjszNHoPfTtt09BQVr_6YSYNcyS/view?usp=sharing)  
 🔹 **Mechanika 8** - 3D - Podnoszenie broni + [🎥 Filmik](https://drive.google.com/file/d/1HA0xhx2PkbYmZhYNESYLfUxP6l2iD2h-/view?usp=sharing)  
 🔹 **Mechanika 9** - UI - Zapełnianie ekwipunku + [🎥 Filmik](https://drive.google.com/file/d/1AU-lhkCOyy2Pzcq3urYLvUG7vtaayN8m/view?usp=sharing)  
+
 ---
 
 ## 🛠 Technologie i Narzędzia z których korzystam
